@@ -4,36 +4,37 @@ const Footer = (props) => {
     return (
         <footer>
             <section className="d7ed-IB_g3V">
-            <div className="a258-M5dPaP d7ed-fdSIZS d7ed-OoK3wU d7ed-w9YXDo">
-                <a className="a258-DO4HOc d7ed-fdSIZS d7ed-d4keTB d7ed-OoK3wU d7ed-Bwn8O5 d7ed-UkcyG6 d7ed-ZfrH5c d7ed-GgWJaN d7ed-d2C3_E" href="https://www.sendo.vn/huong-dan/ve-sendo">
-                    <img data-src="https://media3.scdn.vn/img4/2020/12_16/gJwXr6FFZKZCGKWaz4RB.png" src="https://media3.scdn.vn/img4/2020/12_16/gJwXr6FFZKZCGKWaz4RB.png" alt="Siêu nhiều hàng tốt" className="lazyloaded" />
-                    <div className="d7ed-fdSIZS d7ed-Bwn8O5 d7ed-UkcyG6">
-                        <span className="d7ed-oz4bcc d7ed-AHa8cD d7ed-mzOLVa">Siêu nhiều hàng tốt</span>
-                        <span className="d7ed-oz4bcc d7ed-bjQW4F d7ed-JAhcuC">Cần gì cũng có 26 ngành hàng &amp; 10 triệu sản phẩm</span>
-                    </div>
-                </a>
-                <a className="a258-DO4HOc d7ed-fdSIZS d7ed-d4keTB d7ed-OoK3wU d7ed-Bwn8O5 d7ed-UkcyG6 d7ed-ZfrH5c d7ed-GgWJaN d7ed-d2C3_E" href="https://www.sendo.vn/huong-dan/ve-sendo">
-                    <img data-src="https://media3.scdn.vn/img4/2020/12_16/EfZWQVfV6nQzu2vMmnwC.png" src="https://media3.scdn.vn/img4/2020/12_16/EfZWQVfV6nQzu2vMmnwC.png" alt="Siêu yên tâm" className="lazyloaded" />
-                    <div className="d7ed-fdSIZS d7ed-Bwn8O5 d7ed-UkcyG6">
-                        <span className="d7ed-oz4bcc d7ed-AHa8cD d7ed-mzOLVa">Siêu yên tâm</span>
-                        <span className="d7ed-oz4bcc d7ed-bjQW4F d7ed-JAhcuC">Miễn phí đổi trả 48h</span>
-                    </div>
-                </a>
-                <a className="a258-DO4HOc d7ed-fdSIZS d7ed-d4keTB d7ed-OoK3wU d7ed-Bwn8O5 d7ed-UkcyG6 d7ed-ZfrH5c d7ed-GgWJaN d7ed-d2C3_E" href="https://www.sendo.vn/huong-dan/ve-sendo">
-                    <img data-src="https://media3.scdn.vn/img4/2020/12_16/j5C6IQz7gIXPgjFJxmRz.png" src="https://media3.scdn.vn/img4/2020/12_16/j5C6IQz7gIXPgjFJxmRz.png" alt="Siêu tiện lợi" className="lazyloaded" />
-                    <div className="d7ed-fdSIZS d7ed-Bwn8O5 d7ed-UkcyG6">
-                        <span className="d7ed-oz4bcc d7ed-AHa8cD d7ed-mzOLVa">Siêu tiện lợi</span>
-                        <span className="d7ed-oz4bcc d7ed-bjQW4F d7ed-JAhcuC">Mang thế giới mua sắm của Sendo trong tầm tay bạn</span>
-                    </div>
-                </a>
-                <a className="a258-DO4HOc d7ed-fdSIZS d7ed-d4keTB d7ed-OoK3wU d7ed-Bwn8O5 d7ed-UkcyG6 d7ed-ZfrH5c d7ed-GgWJaN d7ed-d2C3_E" href="https://www.sendo.vn/huong-dan/ve-sendo">
-                    <img data-src="https://media3.scdn.vn/img4/2020/12_16/7AJFQGQ5qvS7gGOz8P7a.png" src="https://media3.scdn.vn/img4/2020/12_16/7AJFQGQ5qvS7gGOz8P7a.png" alt="Siêu tiết kiệm" className="lazyloaded" />
-                    <div className="d7ed-fdSIZS d7ed-Bwn8O5 d7ed-UkcyG6">
-                        <span className="d7ed-oz4bcc d7ed-AHa8cD d7ed-mzOLVa">Siêu tiết kiệm</span>
-                        <span className="d7ed-oz4bcc d7ed-bjQW4F d7ed-JAhcuC">Giá hợp lý, vừa túi tiền. Luôn có nhiều chương trình khuyến mãi</span>
-                    </div>
-                </a>
-            </div>
+                <div className="a258-M5dPaP d7ed-fdSIZS d7ed-OoK3wU d7ed-w9YXDo">
+                    <a className="a258-DO4HOc d7ed-fdSIZS d7ed-d4keTB d7ed-OoK3wU d7ed-Bwn8O5 d7ed-UkcyG6 d7ed-ZfrH5c d7ed-GgWJaN d7ed-d2C3_E" href="https://www.sendo.vn/huong-dan/ve-sendo">
+                        <img data-src="https://media3.scdn.vn/img4/2020/12_16/gJwXr6FFZKZCGKWaz4RB.png" src="https://media3.scdn.vn/img4/2020/12_16/gJwXr6FFZKZCGKWaz4RB.png" alt="Siêu nhiều hàng tốt" className="lazyloaded" />
+                        <div className="d7ed-fdSIZS d7ed-Bwn8O5 d7ed-UkcyG6">
+                            <span className="d7ed-oz4bcc d7ed-AHa8cD d7ed-mzOLVa">Siêu nhiều hàng tốt</span>
+                            <span className="d7ed-oz4bcc d7ed-bjQW4F d7ed-JAhcuC">Cần gì cũng có 26 ngành hàng &amp; 10 triệu sản phẩm</span>
+                        </div>
+                    </a>
+                    <a className="a258-DO4HOc d7ed-fdSIZS d7ed-d4keTB d7ed-OoK3wU d7ed-Bwn8O5 d7ed-UkcyG6 d7ed-ZfrH5c d7ed-GgWJaN d7ed-d2C3_E" href="https://www.sendo.vn/huong-dan/ve-sendo">
+                        <img data-src="https://media3.scdn.vn/img4/2020/12_16/EfZWQVfV6nQzu2vMmnwC.png" src="https://media3.scdn.vn/img4/2020/12_16/EfZWQVfV6nQzu2vMmnwC.png" alt="Siêu yên tâm" className="lazyloaded" />
+                        <div className="d7ed-fdSIZS d7ed-Bwn8O5 d7ed-UkcyG6">
+                            <span className="d7ed-oz4bcc d7ed-AHa8cD d7ed-mzOLVa">Siêu yên tâm</span>
+                            <span className="d7ed-oz4bcc d7ed-bjQW4F d7ed-JAhcuC">Miễn phí đổi trả 48h</span>
+                        </div>
+                    </a>
+                    <a className="a258-DO4HOc d7ed-fdSIZS d7ed-d4keTB d7ed-OoK3wU d7ed-Bwn8O5 d7ed-UkcyG6 d7ed-ZfrH5c d7ed-GgWJaN d7ed-d2C3_E" href="https://www.sendo.vn/huong-dan/ve-sendo">
+                        <img data-src="https://media3.scdn.vn/img4/2020/12_16/j5C6IQz7gIXPgjFJxmRz.png" src="https://media3.scdn.vn/img4/2020/12_16/j5C6IQz7gIXPgjFJxmRz.png" alt="Siêu tiện lợi" className="lazyloaded" />
+                        <div className="d7ed-fdSIZS d7ed-Bwn8O5 d7ed-UkcyG6">
+                            <span className="d7ed-oz4bcc d7ed-AHa8cD d7ed-mzOLVa">Siêu tiện lợi</span>
+                            <span className="d7ed-oz4bcc d7ed-bjQW4F d7ed-JAhcuC">Mang thế giới mua sắm của Sendo trong tầm tay bạn</span>
+                        </div>
+                    </a>
+                    <a className="a258-DO4HOc d7ed-fdSIZS d7ed-d4keTB d7ed-OoK3wU d7ed-Bwn8O5 d7ed-UkcyG6 d7ed-ZfrH5c d7ed-GgWJaN d7ed-d2C3_E" href="https://www.sendo.vn/huong-dan/ve-sendo">
+                        <img data-src="https://media3.scdn.vn/img4/2020/12_16/7AJFQGQ5qvS7gGOz8P7a.png" src="https://media3.scdn.vn/img4/2020/12_16/7AJFQGQ5qvS7gGOz8P7a.png" alt="Siêu tiết kiệm" className="lazyloaded" />
+                        <div className="d7ed-fdSIZS d7ed-Bwn8O5 d7ed-UkcyG6">
+                            <span className="d7ed-oz4bcc d7ed-AHa8cD d7ed-mzOLVa">Siêu tiết kiệm</span>
+                            <span className="d7ed-oz4bcc d7ed-bjQW4F d7ed-JAhcuC">Giá hợp lý, vừa túi tiền. Luôn có nhiều chương trình khuyến mãi</span>
+                        </div>
+                    </a>
+                </div>
+            </section>
             <section className="a258-qe99Bj">
                 <div className="d7ed-IB_g3V">
                     <div className="d7ed-fdSIZS d7ed-OoK3wU d7ed-Bwn8O5 d7ed-JyJa1G">
@@ -219,7 +220,6 @@ const Footer = (props) => {
                     <a className="d7ed-oz4bcc d7ed-bjQW4F d7ed-ekib8m" href="thoi-trang-m-collection.htm">thoi trang m collection</a>
                 </div>
             </section>
-        </section>
         </footer>
     );
 };
