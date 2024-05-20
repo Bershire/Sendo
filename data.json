@@ -1,0 +1,3188 @@
+{
+    "data": [
+        {
+            "id": 26157691,
+            "name": "Laptop HP 15 BS1XX i5-8250U ram 8G HDD 1T dung lượng lớn máy đẹp thế hệ mới nhất",
+            "category_path": "laptop-hp-15-bs1xx-i5-8250u-ram-8g-hdd-1t-dung-luong-lon-may-dep-the-he-moi-nhat-26157691.html",
+            "image": "https://media3.scdn.vn/img4/2020/02_22/SGfwK3l3hT1ytgFxLtuv_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 12999000,
+            "default_price_max": 12999000,
+            "sale_price_min": 12999000,
+            "sale_price_max": 12999000,
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "Laptop HP 15 BS1XX",
+            "product_type": 23,
+            "active_event_frame": "mega_voucher",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "mega_voucher",
+                    "icon": "https://media3.scdn.vn/img4/2024/05_03/sXd7bQ68kqZWNs1PlGF7.png"
+                },
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 95374666,
+            "name": "Bàn Phím Cơ Máy Tính Gaming K80 Bản Mới Nhất 2023 Blue Switch LED RGB 20 Chế Độ Cực Đẹp Dùng Cho Laptop, PC",
+            "category_path": "ban-phim-co-may-tinh-gaming-k80-ban-moi-nhat-2023-blue-switch-led-rgb-20-che-do-cuc-dep-dung-cho-laptop-pc-95374666.html",
+            "image": "https://media3.scdn.vn/img4/2022/06_28/SgvInY61qqjTGY743v4q_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 999000,
+            "default_price_max": 999000,
+            "sale_price_min": 799000,
+            "sale_price_max": 799000,
+            "sale_percent": 21,
+            "sold": 3,
+            "order_count_text": "3",
+            "seller_admin_id": 946101,
+            "sku_user": "K80",
+            "product_type": 23,
+            "active_event_frame": "mega_voucher",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 946101,
+                "name": "PhuKienCongNgheHK",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 2,
+                "star": 5
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "mega_voucher",
+                    "icon": "https://media3.scdn.vn/img4/2024/05_03/sXd7bQ68kqZWNs1PlGF7.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 114366248,
+            "name": "Laptop Asus ExpertBook B1400C Intel Core i3 1115G4 / 8GB / 256GB và i5 1135G7 / 8GB / 512GB mõng nhẹ sang trọng mới",
+            "category_path": "laptop-asus-expertbook-b1400c-intel-core-i3-1115g4-8gb-256gb-va-i5-1135g7-8gb-512gb-mo-ng-nhe-sang-tro-ng-mo-i-114366248.html",
+            "image": "https://media3.scdn.vn/img4/2023/06_14/GUrMpneBacxMuJa3uDa8_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 12900000,
+            "default_price_max": 12900000,
+            "sale_price_min": 12900000,
+            "sale_price_max": 12900000,
+            "seller_admin_id": 695561,
+            "sku_user": "2907_114366248",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 695561,
+                "name": "Phuoc Tài Computer",
+                "status": 2,
+                "level": 99,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "instant_shipping",
+                    "text": "Hoả tốc",
+                    "text_color": "#449460",
+                    "bg_color": "#f5fbf7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/MuogCKyx1P2R1dm0VHbd.png"
+                }
+            ]
+        },
+        {
+            "id": 72027454,
+            "name": "Bàn Phím Cơ Máy Tính Có Dây Gaming Blue Switch LED RGB 20 Chế Độ Cực Đẹp Bản Mới Nhất 2022 Dùng Cho Laptop, PC",
+            "category_path": "ban-phim-co-may-tinh-co-day-gaming-blue-switch-led-rgb-20-che-do-cuc-dep-ban-moi-nhat-2022-dung-cho-laptop-pc-72027454.html",
+            "image": "https://media3.scdn.vn/img4/2022/02_09/enVi5AeI8ndqEZZDCWxQ_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1190000,
+            "default_price_max": 1190000,
+            "sale_price_min": 695000,
+            "sale_price_max": 695000,
+            "sale_percent": 42,
+            "sold": 5,
+            "order_count_text": "5",
+            "seller_admin_id": 935447,
+            "sku_user": "K80_XSM_400",
+            "product_type": 23,
+            "active_event_frame": "mega_voucher",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 935447,
+                "name": "HoangkhangStore",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "Hà Nội",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 3,
+                "star": 5
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "mega_voucher",
+                    "icon": "https://media3.scdn.vn/img4/2024/05_03/sXd7bQ68kqZWNs1PlGF7.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 67657185,
+            "name": "Dell latitude E7250 - core i7 5600u, laptop văn phòng học online giá rẻ nhất BH 3T 6T",
+            "category_path": "dell-latitude-e7250-core-i7-5600u-laptop-van-phong-hoc-online-gia-re-nhat-bh-3t-6t-67657185.html",
+            "image": "https://media3.scdn.vn/img4/2021/11_17/E0ONm4U8bVwHtlRPWnfY_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 6900000,
+            "default_price_max": 6900000,
+            "sale_price_min": 6900000,
+            "sale_price_max": 6900000,
+            "has_video": true,
+            "seller_admin_id": 874840,
+            "sku_user": "2910_67657185",
+            "product_type": 23,
+            "like_counter": 1,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 874840,
+                "name": "mayin giare thuanphat",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 71805655,
+            "name": "Laptop New 14\" CAMERA PIN 4-5HRAM 4G SSD 128G HDMI MỚI MÕNG NHẸ 1KG CHÍNH HÃNG VN PHÂN PHỐI VÀ BẢO HÀNH nhẹ và tốt máy tính đồng bộ dell optiplex  bộ máy tính bàn",
+            "category_path": "laptop-new-14-camera-pin-4-5hram-4g-ssd-128g-hdmi-moi-mong-nhe-1kg-chinh-hang-vn-phan-phoi-va-bao-hanh-nhe-va-tot-may-tinh-dong-bo-dell-optiplex-bo-may-tinh-ban-71805655.html",
+            "image": "https://media3.scdn.vn/img4/2022/01_20/Mpi5kiownruZHcgoLLV8_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 5000000,
+            "default_price_max": 5000000,
+            "sale_price_min": 3500000,
+            "sale_price_max": 3500000,
+            "sale_percent": 30,
+            "sold": 2,
+            "order_count_text": "2",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "laptop mõng",
+            "product_type": 23,
+            "active_event_frame": "sale_event",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "mega_voucher",
+                    "icon": "https://media3.scdn.vn/img4/2024/05_03/sXd7bQ68kqZWNs1PlGF7.png"
+                },
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 95642271,
+            "name": "Laptop Dell latitude 13in cpu 2.6ghz 4g camera pin mới 100% pin bảo hành 6tháng",
+            "category_path": "laptop-dell-latitude-13in-cpu-26ghz-4g-camera-pin-moi-100-pin-bao-hanh-6thang-95642271.html",
+            "image": "https://media3.scdn.vn/img4/2022/07_06/EHTjm2O4QuxVe2bjCljt_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 2000000,
+            "default_price_max": 2000000,
+            "sale_price_min": 1000000,
+            "sale_price_max": 1000000,
+            "sale_percent": 50,
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "Laptop Dell latitude 13in cpu 2.6ghz 4g camer",
+            "product_type": 23,
+            "active_event_frame": "sale_event",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "mega_voucher",
+                    "icon": "https://media3.scdn.vn/img4/2024/05_03/sXd7bQ68kqZWNs1PlGF7.png"
+                },
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 74952820,
+            "name": "Laptop HP 15.6in thế hệ 6 8G SSD mới 240G camera hdmi phím số hoc online chơi game văn phòng Máy tính \u0026 Thiết bị văn phòng like new",
+            "category_path": "laptop-hp-156in-the-he-6-8g-ssd-moi-240g-camera-hdmi-phim-so-hoc-online-choi-game-van-phong-may-tinh-thiet-bi-van-phong-like-new-74952820.html",
+            "image": "https://media3.scdn.vn/img4/2022/03_30/mluAydoYbHPDShNAFzow_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 7000000,
+            "default_price_max": 7000000,
+            "sale_price_min": 7000000,
+            "sale_price_max": 7000000,
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "Laptop HP 15.6in thế hệ 6 8G SSD mới 240G cam",
+            "product_type": 23,
+            "active_event_frame": "mega_voucher",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "mega_voucher",
+                    "icon": "https://media3.scdn.vn/img4/2024/05_03/sXd7bQ68kqZWNs1PlGF7.png"
+                },
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 73117481,
+            "name": "Laptop Hp Elitebook vỏ nhôm i5 2.6Ghz 8G 500G 14\" camera pin mới",
+            "category_path": "laptop-hp-elitebook-vo-nhom-i5-26ghz-8g-500g-14-camera-pin-moi-73117481.html",
+            "image": "https://media3.scdn.vn/img4/2022/03_08/gZLyX9LKNjqC5OuZzwHi_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 2999000,
+            "default_price_max": 2999000,
+            "sale_price_min": 2999000,
+            "sale_price_max": 2999000,
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "laptop hp elitebook 8",
+            "product_type": 23,
+            "active_event_frame": "mega_voucher",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "mega_voucher",
+                    "icon": "https://media3.scdn.vn/img4/2024/05_03/sXd7bQ68kqZWNs1PlGF7.png"
+                },
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 71805631,
+            "name": "Dell Vostro i5 4G 500G 14in camera HDMi pin mới laptop văn phòng thời trang vỏ nhôm sáng đẹp zin",
+            "category_path": "dell-vostro-i5-4g-500g-14in-camera-hdmi-pin-moi-laptop-van-phong-thoi-trang-vo-nhom-sang-dep-zin-71805631.html",
+            "image": "https://media3.scdn.vn/img4/2022/01_20/hlXEnsTvmnHoc8a4Fcpf_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 5000000,
+            "default_price_max": 5000000,
+            "sale_price_min": 5000000,
+            "sale_price_max": 5000000,
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "laptop dell vostro i5",
+            "product_type": 23,
+            "active_event_frame": "mega_voucher",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "mega_voucher",
+                    "icon": "https://media3.scdn.vn/img4/2024/05_03/sXd7bQ68kqZWNs1PlGF7.png"
+                },
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 75118085,
+            "name": "Laptop Hp vỏ nhôm i7 8G 320G pin mới camera học online văn phòng Máy tính \u0026 Thiết bị văn phòng like new",
+            "category_path": "laptop-hp-vo-nhom-i7-8g-320g-pin-moi-camera-hoc-online-van-phong-may-tinh-thiet-bi-van-phong-like-new-75118085.html",
+            "image": "https://media3.scdn.vn/img4/2022/04_04/xl6uYQ7FxnKmUSKQvGVH_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 5000000,
+            "default_price_max": 5000000,
+            "sale_price_min": 5000000,
+            "sale_price_max": 5000000,
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "Laptop Hp vỏ nhôm i7 4G 320G 13in pin mới cam",
+            "product_type": 23,
+            "active_event_frame": "mega_voucher",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "mega_voucher",
+                    "icon": "https://media3.scdn.vn/img4/2024/05_03/sXd7bQ68kqZWNs1PlGF7.png"
+                },
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 34801967,
+            "name": "[Freeship] Laptop Hp i5 8G 750G PIN MỚI Game đồ hoạ CAD Photoshop 3D camera HDMi Phím số, loa to",
+            "category_path": "freeship-laptop-hp-i5-8g-750g-pin-moi-game-do-hoa-cad-photoshop-3d-camera-hdmi-phim-so-loa-to-34801967.html",
+            "image": "https://media3.scdn.vn/img4/2022/12_26/Fwbz2ZikVHTIxrhm4F2Y_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 4000000,
+            "default_price_max": 4000000,
+            "sale_price_min": 4000000,
+            "sale_price_max": 4000000,
+            "sold": 9,
+            "order_count_text": "9",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "Laptop 15in i5 2.6Ghz 4",
+            "product_type": 23,
+            "active_event_frame": "mega_voucher",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 1,
+                "star": 5
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "mega_voucher",
+                    "icon": "https://media3.scdn.vn/img4/2024/05_03/sXd7bQ68kqZWNs1PlGF7.png"
+                },
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 72539144,
+            "name": "Laptop Hp pavilion G5 4550M 15in VGA ATi 7600 8G 750G PIN MỚI Game đồ hoạ CAD Photoshop 3D camera HDMi Phím số, loa altec lansing dolby",
+            "category_path": "laptop-hp-pavilion-g5-4550m-15in-vga-ati-7600-8g-750g-pin-moi-game-do-hoa-cad-photoshop-3d-camera-hdmi-phim-so-loa-altec-lansing-dolby-72539144.html",
+            "image": "https://media3.scdn.vn/img4/2022/02_23/Phxg9CQyFKrH37vuzjPO_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 7000000,
+            "default_price_max": 7000000,
+            "sale_price_min": 7000000,
+            "sale_price_max": 7000000,
+            "sold": 1,
+            "order_count_text": "1",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "LAPTOP GAME",
+            "product_type": 23,
+            "active_event_frame": "mega_voucher",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "mega_voucher",
+                    "icon": "https://media3.scdn.vn/img4/2024/05_03/sXd7bQ68kqZWNs1PlGF7.png"
+                },
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 103325877,
+            "name": "Laptop Hp Folio i5 8G 256G 14\" 1600x900 Đèn Led phím pin mới mõng đẹp 99 laptop doanh nhân",
+            "category_path": "laptop-hp-folio-i5-8g-256g-14-1600x900-den-led-phim-pin-moi-mong-dep-99-laptop-doanh-nhan-103325877.html",
+            "image": "https://media3.scdn.vn/img4/2022/10_03/zLh6U0oFVWcN3PrPMUOx_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 6500000,
+            "default_price_max": 6500000,
+            "sale_price_min": 6499000,
+            "sale_price_max": 6499000,
+            "sale_percent": 1,
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "laptop hp 9",
+            "product_type": 23,
+            "active_event_frame": "mega_voucher",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "mega_voucher",
+                    "icon": "https://media3.scdn.vn/img4/2024/05_03/sXd7bQ68kqZWNs1PlGF7.png"
+                },
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 25342992,
+            "name": "[Freeship] Laptop Dell Latitude i5 8g 512G 15in vỏ hợp kim sang trọng mạnh mẽ bền bỉ nguyên zin Pin mới 100% BH6Thang Pin",
+            "category_path": "freeship-laptop-dell-latitude-i5-8g-512g-15in-vo-hop-kim-sang-trong-manh-me-ben-bi-nguyen-zin-pin-moi-100-bh6thang-pin-25342992.html",
+            "image": "https://media3.scdn.vn/img4/2020/11_03/rrvU9dtwz0fPdHF2pXTQ_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1899000,
+            "default_price_max": 1899000,
+            "sale_price_min": 1328600,
+            "sale_price_max": 1328600,
+            "sale_percent": 31,
+            "sold": 5,
+            "order_count_text": "5",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "LAPTOP DELL E6410.",
+            "product_type": 23,
+            "active_event_frame": "sale_event",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 2,
+                "star": 4.5
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "mega_voucher",
+                    "icon": "https://media3.scdn.vn/img4/2024/05_03/sXd7bQ68kqZWNs1PlGF7.png"
+                },
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 71805681,
+            "name": "Laptop Dell latitude 15.4in 4G 500G win 10 pin mới laptop văn phòng lướt web nghe nhac loa to màn hình bự",
+            "category_path": "laptop-dell-latitude-154in-4g-500g-win-10-pin-moi-laptop-van-phong-luot-web-nghe-nhac-loa-to-man-hinh-bu-71805681.html",
+            "image": "https://media3.scdn.vn/img4/2022/01_20/F6hxxK0o3n2bP3sbc9WH_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 2000000,
+            "default_price_max": 2000000,
+            "sale_price_min": 1400000,
+            "sale_price_max": 1400000,
+            "sale_percent": 30,
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "laptop dell latitude d8",
+            "product_type": 23,
+            "active_event_frame": "sale_event",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "mega_voucher",
+                    "icon": "https://media3.scdn.vn/img4/2024/05_03/sXd7bQ68kqZWNs1PlGF7.png"
+                },
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 99557275,
+            "name": "Laptop lenovo thinkpad i5 8G ssd 128G 14in Vga nvidia hổ trợ đồ hoạ pin mới bảo hành pin 6tháng",
+            "category_path": "laptop-lenovo-thinkpad-i5-8g-ssd-128g-14in-vga-nvidia-ho-tro-do-hoa-pin-moi-bao-hanh-pin-6thang-99557275.html",
+            "image": "https://media3.scdn.vn/img4/2022/08_21/VHJdqicSGtpy05nquQPA_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 4299000,
+            "default_price_max": 4299000,
+            "sale_price_min": 4299000,
+            "sale_price_max": 4299000,
+            "sold": 2,
+            "order_count_text": "2",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "Laptop lenovo thinkpad i5 8G ssd 128G 14in",
+            "product_type": 23,
+            "active_event_frame": "mega_voucher",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "mega_voucher",
+                    "icon": "https://media3.scdn.vn/img4/2024/05_03/sXd7bQ68kqZWNs1PlGF7.png"
+                },
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 45004253,
+            "name": "Laptop i7 Tablet Lenovo Think.Pad -Cảm ứng đa điểm- chạy SSD nhanh Pin mới 100% Bảo hành 12 tháng pin",
+            "category_path": "laptop-i7-tablet-lenovo-thinkpad-cam-ung-da-diem-chay-ssd-nhanh-pin-moi-100-bao-hanh-12-thang-pin-45004253.html",
+            "image": "https://media3.scdn.vn/img4/2021/06_08/fBIH8Fcj31c9viKGtzGK_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 6000000,
+            "default_price_max": 6000000,
+            "sale_price_min": 6000000,
+            "sale_price_max": 6000000,
+            "sold": 1,
+            "order_count_text": "1",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "Laptop i7 Tablet Lenovo Think.Pad",
+            "product_type": 23,
+            "active_event_frame": "mega_voucher",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "mega_voucher",
+                    "icon": "https://media3.scdn.vn/img4/2024/05_03/sXd7bQ68kqZWNs1PlGF7.png"
+                },
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 45004233,
+            "name": "Laptop i7 8G 256G Tablet Think.Pad Cảm ứng đa điểm-Màn hình IPS chạy SSD nhanh Pin mới 100% Bảo hành 12 tháng pin",
+            "category_path": "laptop-i7-8g-256g-tablet-thinkpad-cam-ung-da-diem-man-hinh-ips-chay-ssd-nhanh-pin-moi-100-bao-hanh-12-thang-pin-45004233.html",
+            "image": "https://media3.scdn.vn/img4/2021/06_08/KrJiNhs6MZG5DBVH4v1u_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 7000000,
+            "default_price_max": 7000000,
+            "sale_price_min": 7000000,
+            "sale_price_max": 7000000,
+            "sold": 8,
+            "order_count_text": "8",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "Laptop i7 8G 256G Tablet",
+            "product_type": 23,
+            "active_event_frame": "mega_voucher",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "mega_voucher",
+                    "icon": "https://media3.scdn.vn/img4/2024/05_03/sXd7bQ68kqZWNs1PlGF7.png"
+                },
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 20338818,
+            "name": "[QUÀ ĐỈNH 0Đ] Laptop cũ 13in Dell E6320, Core Core i5 2.6ghz Pin mới 100% BH6Thang Ram 4g, HDD 320g [TẶNG CHUỘT Và TÚI CHỐNG SỐC]",
+            "category_path": "qua-dinh-0d-laptop-cu-13in-dell-e6320-core-core-i5-26ghz-pin-moi-100-bh6thang-ram-4g-hdd-320g-tang-chuot-va-tui-chong-soc-20338818.html",
+            "image": "https://media3.scdn.vn/img3/2019/7_29/0FNWvB_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 3469000,
+            "default_price_max": 3469000,
+            "sale_price_min": 1734500,
+            "sale_price_max": 1734500,
+            "sale_percent": 50,
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "laptop dell e6320",
+            "product_type": 23,
+            "active_event_frame": "sale_event",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "mega_voucher",
+                    "icon": "https://media3.scdn.vn/img4/2024/05_03/sXd7bQ68kqZWNs1PlGF7.png"
+                },
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 44550115,
+            "name": "Laptop Asus Gaming Cpu 2.3Ghz 8G SSD 256G 15in 2Vga Nvidia 920MX camera mic hdmi Pin mới vỏ nhôm bền đẹp zin Máy tính \u0026 Thiết bị văn phòng2 like new",
+            "category_path": "laptop-asus-gaming-cpu-23ghz-8g-ssd-256g-15in-2vga-nvidia-920mx-camera-mic-hdmi-pin-moi-vo-nhom-ben-dep-zin-may-tinh-thiet-bi-van-phong2-like-new-44550115.html",
+            "image": "https://media3.scdn.vn/img4/2022/05_19/6OdMszDtZiyMZyCVVoWv_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 7000000,
+            "default_price_max": 7000000,
+            "sale_price_min": 7000000,
+            "sale_price_max": 7000000,
+            "sold": 1,
+            "order_count_text": "1",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "Laptop Asus Gaming  2.3Ghz 8G SSD 256G 15i",
+            "product_type": 23,
+            "active_event_frame": "mega_voucher",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "mega_voucher",
+                    "icon": "https://media3.scdn.vn/img4/2024/05_03/sXd7bQ68kqZWNs1PlGF7.png"
+                },
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 43497294,
+            "name": "ASUS GAME Laptop Asus Gaming Thế hệ 6 Cpu 2.3Ghz 4G SSD 2Vga Nvidia 920MX camera mic HDMi Pin mới vỏ nhôm bền đẹp zin âm thanh",
+            "category_path": "asus-game-laptop-asus-gaming-the-he-6-cpu-23ghz-4g-ssd-2vga-nvidia-920mx-camera-mic-hdmi-pin-moi-vo-nhom-ben-dep-zin-am-thanh-43497294.html",
+            "image": "https://media3.scdn.vn/img4/2022/04_21/3xI2u2TAwFIFHVjtwaKp_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 6000000,
+            "default_price_max": 6000000,
+            "sale_price_min": 6000000,
+            "sale_price_max": 6000000,
+            "sold": 2,
+            "order_count_text": "2",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "Laptop asus game gen 6",
+            "product_type": 23,
+            "active_event_frame": "mega_voucher",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 1,
+                "star": 4
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "mega_voucher",
+                    "icon": "https://media3.scdn.vn/img4/2024/05_03/sXd7bQ68kqZWNs1PlGF7.png"
+                },
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 24309218,
+            "name": "[Freeship] Laptop Dell Latitude. laptop văn phòng nguyên zinPin mới 100% BH6Thang",
+            "category_path": "freeship-laptop-dell-latitude-laptop-van-phong-nguyen-zinpin-moi-100-bh6thang-24309218.html",
+            "image": "https://media3.scdn.vn/img3/2019/12_5/ONcYHR_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 3000000,
+            "default_price_max": 3000000,
+            "sale_price_min": 2999000,
+            "sale_price_max": 2999000,
+            "sale_percent": 1,
+            "sold": 2,
+            "order_count_text": "2",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "Laptop Dell Latitude. E6320. i5",
+            "product_type": 23,
+            "active_event_frame": "mega_voucher",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "mega_voucher",
+                    "icon": "https://media3.scdn.vn/img4/2024/05_03/sXd7bQ68kqZWNs1PlGF7.png"
+                },
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 94028758,
+            "name": "Laptop Hp Cpu i5 2.6ghz 8G 500G pin mới BH6tháng pin , máy tính đẹp nguyên zin bền bỉ nhẹ và tốt máy tính đồng bộ dell optiplex  bộ máy tính bàn",
+            "category_path": "laptop-hp-cpu-i5-26ghz-8g-500g-pin-moi-bh6thang-pin-may-tinh-dep-nguyen-zin-ben-bi-nhe-va-tot-may-tinh-dong-bo-dell-optiplex-bo-may-tinh-ban-94028758.html",
+            "image": "https://media3.scdn.vn/img4/2022/10_05/u7n1ujEYMsGPlQW8IhTl_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 3000000,
+            "default_price_max": 3000000,
+            "sale_price_min": 2100000,
+            "sale_price_max": 2100000,
+            "sale_percent": 30,
+            "sold": 3,
+            "order_count_text": "3",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "Laptop Hp 15.6in Cpu 2.16ghz 4G 500G camera h",
+            "product_type": 23,
+            "active_event_frame": "sale_event",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 5,
+                "star": 5
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "mega_voucher",
+                    "icon": "https://media3.scdn.vn/img4/2024/05_03/sXd7bQ68kqZWNs1PlGF7.png"
+                },
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 26054724,
+            "name": "[Freeship] Laptop Dell i5 Ram 4gb HDD 320gb LED vỏ nhôm Pin mới 100% BH6Thang chính hãng giá rẻ",
+            "category_path": "freeship-laptop-dell-i5-ram-4gb-hdd-320gb-led-vo-nhom-pin-moi-100-bh6thang-chinh-hang-gia-re-26054724.html",
+            "image": "https://media3.scdn.vn/img4/2020/02_18/kN10v3sWLvlIqvSzqAZr_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 4000000,
+            "default_price_max": 4000000,
+            "sale_price_min": 4000000,
+            "sale_price_max": 4000000,
+            "sold": 1,
+            "order_count_text": "1",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "dell latitude. e6330 chính hãng giá rẻ",
+            "product_type": 23,
+            "active_event_frame": "mega_voucher",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "mega_voucher",
+                    "icon": "https://media3.scdn.vn/img4/2024/05_03/sXd7bQ68kqZWNs1PlGF7.png"
+                },
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 19978431,
+            "name": "[QUÀ ĐỈNH 0Đ] Laptop cũ 13in Dell , Core i5 2.6ghz Pin mới 100% BH6Thang Ram 4g, HDD 320g",
+            "category_path": "qua-dinh-0d-laptop-cu-13in-dell-core-i5-26ghz-pin-moi-100-bh6thang-ram-4g-hdd-320g-19978431.html",
+            "image": "https://media3.scdn.vn/img3/2019/7_17/GUciGl_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 2999000,
+            "default_price_max": 2999000,
+            "sale_price_min": 1499000,
+            "sale_price_max": 1499000,
+            "sale_percent": 51,
+            "sold": 1,
+            "order_count_text": "1",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "Laptop cũ Dell-E6320 i5",
+            "product_type": 23,
+            "active_event_frame": "sale_event",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "mega_voucher",
+                    "icon": "https://media3.scdn.vn/img4/2024/05_03/sXd7bQ68kqZWNs1PlGF7.png"
+                },
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 17215099,
+            "name": "Laptop Dell latitude, E6320 i5 2.6Ghz 8G 500G 13in võ nhôm bền giá rẻ Core i5 2.6ghz Pin mới 100% BH6Thang",
+            "category_path": "laptop-dell-latitude-e6320-i5-26ghz-8g-500g-13in-vo-nhom-ben-gia-re-core-i5-26ghz-pin-moi-100-bh6thang-17215099.html",
+            "image": "https://media3.scdn.vn/img3/2019/4_5/GKruyf_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 3799000,
+            "default_price_max": 3799000,
+            "sale_price_min": 3799000,
+            "sale_price_max": 3799000,
+            "sold": 1,
+            "order_count_text": "1",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "Laptop Dell E6320 8g500",
+            "product_type": 23,
+            "active_event_frame": "mega_voucher",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "mega_voucher",
+                    "icon": "https://media3.scdn.vn/img4/2024/05_03/sXd7bQ68kqZWNs1PlGF7.png"
+                },
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 25366176,
+            "name": "[Freeship] Laptop Dell Latitude. 128 GB SSD 12.5inch i5 2.6ghz 4cpu Pin mới 100% BH6Thang Game LOL Bubg ok",
+            "category_path": "freeship-laptop-dell-latitude-128-gb-ssd-125inch-i5-26ghz-4cpu-pin-moi-100-bh6thang-game-lol-bubg-ok-25366176.html",
+            "image": "https://media3.scdn.vn/img4/2020/01_19/C5nBjSL2nozxWXECCQWv_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1899000,
+            "default_price_max": 1899000,
+            "sale_price_min": 1898000,
+            "sale_price_max": 1898000,
+            "sale_percent": 1,
+            "sold": 1,
+            "order_count_text": "1",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "Laptop Dell. e6220",
+            "product_type": 23,
+            "active_event_frame": "mega_voucher",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "mega_voucher",
+                    "icon": "https://media3.scdn.vn/img4/2024/05_03/sXd7bQ68kqZWNs1PlGF7.png"
+                },
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 74951390,
+            "name": "Laptop Asus Gaming Cpu 2.3Ghz 8G 500G 15in 2Vga Nvidia 920MX camera mic hdmi Pin mới vỏ nhôm bền đẹp zin Máy tính \u0026 Thiết bị văn phòng like new âm thanh với công nghệ xử lý độc quyền SonicMaster nhẹ và tốt máy tính đồng bộ dell optiplex  bộ máy t",
+            "category_path": "laptop-asus-gaming-cpu-23ghz-8g-500g-15in-2vga-nvidia-920mx-camera-mic-hdmi-pin-moi-vo-nhom-ben-dep-zin-may-tinh-thiet-bi-van-phong-like-new-am-thanh-voi-cong-nghe-xu-ly-doc-quyen-sonicmaster-nhe-va-tot-may-tinh-dong-bo-dell-optiplex-bo-may-t-74951390.html",
+            "image": "https://media3.scdn.vn/img4/2022/03_30/sS3loAGfLsB4bnd0JGQ3_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 6000000,
+            "default_price_max": 6000000,
+            "sale_price_min": 6000000,
+            "sale_price_max": 6000000,
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "Laptop Asus Gaming Cpu 2.3Ghz 8G SSD 256G 15i",
+            "product_type": 23,
+            "active_event_frame": "mega_voucher",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "mega_voucher",
+                    "icon": "https://media3.scdn.vn/img4/2024/05_03/sXd7bQ68kqZWNs1PlGF7.png"
+                },
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 73117578,
+            "name": "Laptop Dell Vỏ nhôm 14\" i5 4G 500G có VGA game Có camera Pin mới Hàng đẹp zin bền bỉ",
+            "category_path": "laptop-dell-vo-nhom-14-i5-4g-500g-co-vga-game-co-camera-pin-moi-hang-dep-zin-ben-bi-73117578.html",
+            "image": "https://media3.scdn.vn/img4/2022/03_08/m6A1jfCO7sFjpjEmA54Y_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 4999000,
+            "default_price_max": 4999000,
+            "sale_price_min": 4999000,
+            "sale_price_max": 4999000,
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "laptop dell vostro v1",
+            "product_type": 23,
+            "active_event_frame": "mega_voucher",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "mega_voucher",
+                    "icon": "https://media3.scdn.vn/img4/2024/05_03/sXd7bQ68kqZWNs1PlGF7.png"
+                },
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 26054385,
+            "name": "[Freeship] Laptop Dell Latitude. SSD 12.5inch i5 2.6ghz 4cpu Pin mới 100% BH6Thang Game LOL Bubg ok chính hãng giá rẻ",
+            "category_path": "freeship-laptop-dell-latitude-ssd-125inch-i5-26ghz-4cpu-pin-moi-100-bh6thang-game-lol-bubg-ok-chinh-hang-gia-re-26054385.html",
+            "image": "https://media3.scdn.vn/img4/2020/02_18/HRNO0Bim5Xz5AxAEjYLx_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 3000000,
+            "default_price_max": 3000000,
+            "sale_price_min": 2999000,
+            "sale_price_max": 2999000,
+            "sale_percent": 1,
+            "sold": 1,
+            "order_count_text": "1",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "dell latitude. e6220 chính hãng giá rẻ",
+            "product_type": 23,
+            "active_event_frame": "mega_voucher",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "mega_voucher",
+                    "icon": "https://media3.scdn.vn/img4/2024/05_03/sXd7bQ68kqZWNs1PlGF7.png"
+                },
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 25528447,
+            "name": "Laptop Dell.Latitude. E6320 13in i5 2.6Ghz 8G 500G Game LMHT Lol Fifa Pin mới 100% BH6Thang  chính hãng giá rẻ",
+            "category_path": "laptop-delllatitude-e6320-13in-i5-26ghz-8g-500g-game-lmht-lol-fifa-pin-moi-100-bh6thang-chinh-hang-gia-re-25528447.html",
+            "image": "https://media3.scdn.vn/img4/2020/02_03/MFAmHfHjMhhE5WXWqoJ9_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 3999000,
+            "default_price_max": 3999000,
+            "sale_price_min": 3999000,
+            "sale_price_max": 3999000,
+            "sold": 2,
+            "order_count_text": "2",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "Laptop Dell.Latitude.  chính hãng giá rẻ",
+            "product_type": 23,
+            "active_event_frame": "mega_voucher",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "mega_voucher",
+                    "icon": "https://media3.scdn.vn/img4/2024/05_03/sXd7bQ68kqZWNs1PlGF7.png"
+                },
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 21066876,
+            "name": "Laptop Asus Gaming Cpu 2.3Ghz 8G SSD 256G 15in 2Vga Nvidia 920MX camera mic hdmi Pin mới vỏ nhôm bền đẹp zin Máy tính \u0026 Thiết bị văn phòn",
+            "category_path": "laptop-asus-gaming-cpu-23ghz-8g-ssd-256g-15in-2vga-nvidia-920mx-camera-mic-hdmi-pin-moi-vo-nhom-ben-dep-zin-may-tinh-thiet-bi-van-phon-21066876.html",
+            "image": "https://media3.scdn.vn/img4/2022/05_19/rPAqz62a5RXzSZikVFRR_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 7000000,
+            "default_price_max": 7000000,
+            "sale_price_min": 7000000,
+            "sale_price_max": 7000000,
+            "sold": 7,
+            "order_count_text": "7",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "laptop asus g",
+            "product_type": 23,
+            "active_event_frame": "mega_voucher",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "mega_voucher",
+                    "icon": "https://media3.scdn.vn/img4/2024/05_03/sXd7bQ68kqZWNs1PlGF7.png"
+                },
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 70322405,
+            "name": "Laptop Hp G7 17in cpu 4500 ram 8G SSD 128G vga ATi 7640  Đồ hoạ 3D bàn phím số camera mic hdmi pin mới",
+            "category_path": "laptop-hp-g7-17in-cpu-4500-ram-8g-ssd-128g-vga-ati-7640-do-hoa-3d-ban-phim-so-camera-mic-hdmi-pin-moi-70322405.html",
+            "image": "https://media3.scdn.vn/img4/2021/12_15/GyctWRFqJyyTT15jkjC6_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 7000000,
+            "default_price_max": 7000000,
+            "sale_price_min": 7000000,
+            "sale_price_max": 7000000,
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "hp g7",
+            "product_type": 23,
+            "active_event_frame": "mega_voucher",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "mega_voucher",
+                    "icon": "https://media3.scdn.vn/img4/2024/05_03/sXd7bQ68kqZWNs1PlGF7.png"
+                },
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 19152985,
+            "name": "Laptop Dell Latitude. 12in i5 2.6ghz 4cpu Pin mới 100% BH6Thang Game LOL Bubg oksiêu mỏng  nhỏ gọn dể mang đi vỏ nhôm bền bi",
+            "category_path": "laptop-dell-latitude-12in-i5-26ghz-4cpu-pin-moi-100-bh6thang-game-lol-bubg-oksieu-mong-nho-gon-de-mang-di-vo-nhom-ben-bi-19152985.html",
+            "image": "https://media3.scdn.vn/img3/2019/6_13/X6e5NT_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 2999000,
+            "default_price_max": 2999000,
+            "sale_price_min": 2999000,
+            "sale_price_max": 2999000,
+            "sold": 2,
+            "order_count_text": "2",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "Laptop Dell Latitude. E6220 i5",
+            "product_type": 23,
+            "active_event_frame": "mega_voucher",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "mega_voucher",
+                    "icon": "https://media3.scdn.vn/img4/2024/05_03/sXd7bQ68kqZWNs1PlGF7.png"
+                },
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 18843904,
+            "name": "Laptop Dell latitude. i5 4G SSD Doanh nhân bển zin 99 Core i5 2.6ghz Pin mới 100% BH6Thang",
+            "category_path": "laptop-dell-latitude-i5-4g-ssd-doanh-nhan-ben-zin-99-core-i5-26ghz-pin-moi-100-bh6thang-18843904.html",
+            "image": "https://media3.scdn.vn/img3/2019/5_29/NRVluu_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 2999000,
+            "default_price_max": 2999000,
+            "sale_price_min": 2998000,
+            "sale_price_max": 2998000,
+            "sale_percent": 1,
+            "sold": 5,
+            "order_count_text": "5",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "Laptop Dell latitude.  i",
+            "product_type": 23,
+            "active_event_frame": "mega_voucher",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "mega_voucher",
+                    "icon": "https://media3.scdn.vn/img4/2024/05_03/sXd7bQ68kqZWNs1PlGF7.png"
+                },
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 51477337,
+            "name": "Laptop New 14\" CAMERA PIN 4-5HRAM 8G SSD 256G HDMI MỚI MÕNG NHẸ 1KG CHÍNH HÃNG VN PHÂN PHỐI VÀ BẢO HÀNH nhẹ và tốt máy tính đồng bộ dell optiplex  bộ máy tính bàn",
+            "category_path": "laptop-new-14-camera-pin-4-5hram-8g-ssd-256g-hdmi-moi-mong-nhe-1kg-chinh-hang-vn-phan-phoi-va-bao-hanh-nhe-va-tot-may-tinh-dong-bo-dell-optiplex-bo-may-tinh-ban-51477337.html",
+            "image": "https://media3.scdn.vn/img4/2021/10_03/kaCFTCQoLaoq88LZ66yK_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 5000000,
+            "default_price_max": 5000000,
+            "sale_price_min": 3500000,
+            "sale_price_max": 3500000,
+            "sale_percent": 30,
+            "sold": 1,
+            "order_count_text": "1",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "laptophoconline",
+            "product_type": 23,
+            "active_event_frame": "sale_event",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "mega_voucher",
+                    "icon": "https://media3.scdn.vn/img4/2024/05_03/sXd7bQ68kqZWNs1PlGF7.png"
+                },
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 21285034,
+            "name": "Laptop Dell E6230 - Core i5 đời 3 -2.6ghz 4cpu Pin mới 100% BH6Thang  chơi game, đồ họa 3D lmht lol bupg",
+            "category_path": "laptop-dell-e6230-core-i5-doi-3-26ghz-4cpu-pin-moi-100-bh6thang-choi-game-do-hoa-3d-lmht-lol-bupg-21285034.html",
+            "image": "https://media3.scdn.vn/img3/2019/8_29/eNMFUW_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 4000000,
+            "default_price_max": 4000000,
+            "sale_price_min": 3999000,
+            "sale_price_max": 3999000,
+            "sale_percent": 1,
+            "sold": 11,
+            "order_count_text": "11",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "Laptop Dell E6230 i5",
+            "product_type": 23,
+            "active_event_frame": "mega_voucher",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "mega_voucher",
+                    "icon": "https://media3.scdn.vn/img4/2024/05_03/sXd7bQ68kqZWNs1PlGF7.png"
+                },
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 17105174,
+            "name": "Laptop Dell latitude. i5 4G 320G 13in Doanh nhân bển zin 99 Core i5 2.6ghz Pin mới 100% BH6Thang",
+            "category_path": "laptop-dell-latitude-i5-4g-320g-13in-doanh-nhan-ben-zin-99-core-i5-26ghz-pin-moi-100-bh6thang-17105174.html",
+            "image": "https://media3.scdn.vn/img3/2019/3_31/SsM3If_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 2999000,
+            "default_price_max": 2999000,
+            "sale_price_min": 2998000,
+            "sale_price_max": 2998000,
+            "sale_percent": 1,
+            "sold": 3,
+            "order_count_text": "3",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "Laptop Dell latitude. E6320",
+            "product_type": 23,
+            "active_event_frame": "mega_voucher",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "mega_voucher",
+                    "icon": "https://media3.scdn.vn/img4/2024/05_03/sXd7bQ68kqZWNs1PlGF7.png"
+                },
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 26144034,
+            "name": "Laptop HP Màu bạc còn mới",
+            "category_path": "laptop-hp-mau-bac-con-moi-26144034.html",
+            "image": "https://media3.scdn.vn/img4/2020/02_21/dE9lpfKbABLrvTi8j4mG_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 2199000,
+            "default_price_max": 2199000,
+            "sale_price_min": 2199000,
+            "sale_price_max": 2199000,
+            "sold": 2,
+            "order_count_text": "2",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "Laptop HP 2530p",
+            "product_type": 23,
+            "active_event_frame": "mega_voucher",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "mega_voucher",
+                    "icon": "https://media3.scdn.vn/img4/2024/05_03/sXd7bQ68kqZWNs1PlGF7.png"
+                },
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 19008785,
+            "name": "Laptop Dell latitude. i7 8G SSD hàng mới Bảo hành SSD 3nam và pin mới BH pin 6 tháng",
+            "category_path": "laptop-dell-latitude-i7-8g-ssd-hang-moi-bao-hanh-ssd-3nam-va-pin-moi-bh-pin-6-thang-19008785.html",
+            "image": "https://media3.scdn.vn/img3/2019/6_6/rhIL3H_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 3999000,
+            "default_price_max": 3999000,
+            "sale_price_min": 3998000,
+            "sale_price_max": 3998000,
+            "sale_percent": 1,
+            "has_video": true,
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "Laptop Dell latitude. E4310 E6410 E6510 i7",
+            "product_type": 23,
+            "active_event_frame": "mega_voucher",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "mega_voucher",
+                    "icon": "https://media3.scdn.vn/img4/2024/05_03/sXd7bQ68kqZWNs1PlGF7.png"
+                },
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 8619247,
+            "name": "[Freeship] Laptop Dell latitude. E6230 i5 2.6Ghz 12.5in 4cpu Pin mới 100% BH6Thang  Nhỏ Xinh bỏ cóp xe",
+            "category_path": "freeship-laptop-dell-latitude-e6230-i5-26ghz-125in-4cpu-pin-moi-100-bh6thang-nho-xinh-bo-cop-xe-8619247.html",
+            "image": "https://media3.scdn.vn/img2/2018/1_24/Al8voB_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 3999000,
+            "default_price_max": 3999000,
+            "sale_price_min": 3999000,
+            "sale_price_max": 3999000,
+            "sold": 2,
+            "order_count_text": "2",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "e6230 laptop dell",
+            "product_type": 23,
+            "like_counter": 5,
+            "active_event_frame": "mega_voucher",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "mega_voucher",
+                    "icon": "https://media3.scdn.vn/img4/2024/05_03/sXd7bQ68kqZWNs1PlGF7.png"
+                },
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 17215036,
+            "name": "Laptop Dell latitude. E6320 i5 2.6Ghz 8G SSD256G 13in nhanh mạnh đẹp gọn nhẹ rẻ Core i5 2.6ghz Pin mới 100% BH6Thang",
+            "category_path": "laptop-dell-latitude-e6320-i5-26ghz-8g-ssd256g-13in-nhanh-manh-dep-gon-nhe-re-core-i5-26ghz-pin-moi-100-bh6thang-17215036.html",
+            "image": "https://media3.scdn.vn/img3/2019/4_5/DE56Tu_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 5000000,
+            "default_price_max": 5000000,
+            "sale_price_min": 5000000,
+            "sale_price_max": 5000000,
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "Laptop Dell E6320 8g256",
+            "product_type": 23,
+            "active_event_frame": "mega_voucher",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "mega_voucher",
+                    "icon": "https://media3.scdn.vn/img4/2024/05_03/sXd7bQ68kqZWNs1PlGF7.png"
+                },
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 17371128,
+            "name": "Laptop Dell latitude. i5 8G SSD mới bảo hành SSD 3nam và Pin mới bh pin 6 tháng",
+            "category_path": "laptop-dell-latitude-i5-8g-ssd-moi-bao-hanh-ssd-3nam-va-pin-moi-bh-pin-6-thang-17371128.html",
+            "image": "https://media3.scdn.vn/img3/2019/4_11/affWzB_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 2999000,
+            "default_price_max": 2999000,
+            "sale_price_min": 2999000,
+            "sale_price_max": 2999000,
+            "sold": 20,
+            "order_count_text": "20",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "Laptop Dell latitude. E6510 i",
+            "product_type": 23,
+            "active_event_frame": "mega_voucher",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "mega_voucher",
+                    "icon": "https://media3.scdn.vn/img4/2024/05_03/sXd7bQ68kqZWNs1PlGF7.png"
+                },
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 115025900,
+            "name": "Loa Máy Tính PC Laptop có Bluetooth BOSSTON T3500BT Gaming phiên bản v2.1 mới nhất có dây  hỗ trợ âm thanh 7.1  âm vòm",
+            "category_path": "loa-may-tinh-pc-laptop-co-bluetooth-bosston-t3500bt-gaming-phien-ban-v21-moi-nhat-co-day-ho-tro-am-thanh-71-am-vom-115025900.html",
+            "image": "https://media3.scdn.vn/img4/2023/07_27/3dRx8RKyhJnAFkeA8jpg_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 559296,
+            "default_price_max": 559296,
+            "sale_price_min": 559296,
+            "sale_price_max": 559296,
+            "seller_admin_id": 980269,
+            "sku_user": "3232_114552799",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 980269,
+                "name": "Minh Thành Đạt",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                }
+            ]
+        },
+        {
+            "id": 18030768,
+            "name": "Thanh lý laptop cũ, dell inspiron N3542, intel i3 4005u, ram 4gb, mỏng gọn đẹp vỏ mới",
+            "category_path": "thanh-ly-laptop-cu-dell-inspiron-n3542-intel-i3-4005u-ram-4gb-mong-gon-dep-vo-moi-18030768.html",
+            "image": "https://media3.scdn.vn/img3/2019/5_10/zcFtFN_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 4699000,
+            "default_price_max": 4699000,
+            "sale_price_min": 4699000,
+            "sale_price_max": 4699000,
+            "sold": 1,
+            "order_count_text": "1",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "laptop dell inspiron N3542",
+            "product_type": 23,
+            "active_event_frame": "mega_voucher",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "mega_voucher",
+                    "icon": "https://media3.scdn.vn/img4/2024/05_03/sXd7bQ68kqZWNs1PlGF7.png"
+                },
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 8326106,
+            "name": "[Freeship] Laptop Hp SSD 120G mới BH3nam Pin mới BH6thang vỏ nhôm sáng Pro Vip mạnh mẽ zin",
+            "category_path": "freeship-laptop-hp-ssd-120g-moi-bh3nam-pin-moi-bh6thang-vo-nhom-sang-pro-vip-manh-me-zin-8326106.html",
+            "image": "https://media3.scdn.vn/img2/2017/12_29/nFYflj_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 1899000,
+            "default_price_max": 1899000,
+            "sale_price_min": 1890000,
+            "sale_price_max": 1890000,
+            "sale_percent": 1,
+            "sold": 41,
+            "order_count_text": "41",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "laptop 2540p ssd",
+            "product_type": 23,
+            "like_counter": 15,
+            "active_event_frame": "mega_voucher",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 3,
+                "star": 4.3
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "mega_voucher",
+                    "icon": "https://media3.scdn.vn/img4/2024/05_03/sXd7bQ68kqZWNs1PlGF7.png"
+                },
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 8994833,
+            "name": "[Freeship] Laptop may tinh  Dell latitude. i5 2.6Ghz 320G 12.5in 5 2.6ghz 4cpu Pin mới 100% BH6Thang",
+            "category_path": "freeship-laptop-may-tinh-dell-latitude-i5-26ghz-320g-125in-5-26ghz-4cpu-pin-moi-100-bh6thang-8994833.html",
+            "image": "https://media3.scdn.vn/img2/2017/5_16/61q8oJ_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 3999000,
+            "default_price_max": 3999000,
+            "sale_price_min": 2800000,
+            "sale_price_max": 2800000,
+            "sale_percent": 30,
+            "sold": 6,
+            "order_count_text": "6",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "Laptop Dell latitude. E6230G",
+            "product_type": 23,
+            "active_event_frame": "sale_event",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "mega_voucher",
+                    "icon": "https://media3.scdn.vn/img4/2024/05_03/sXd7bQ68kqZWNs1PlGF7.png"
+                },
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 8103930,
+            "name": "[Freeship] Laptop Hp 15.6in Cpu I5 2.6ghz 4G 500G pin mới BH6tháng pin , máy tính mõng đẹp nguyên zin bền bỉGame đồ hoạ CAD Photoshop 3D camera HDMi Phím số, loa altec lansing dolby [TẶNG TÚI CHỐNG SỐC]",
+            "category_path": "freeship-laptop-hp-156in-cpu-i5-26ghz-4g-500g-pin-moi-bh6thang-pin-may-tinh-mong-dep-nguyen-zin-ben-bigame-do-hoa-cad-photoshop-3d-camera-hdmi-phim-so-loa-altec-lansing-dolby-tang-tui-chong-soc-8103930.html",
+            "image": "https://media3.scdn.vn/img4/2022/07_22/8vwED3Zr4UVyQm2RN17v_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1899000,
+            "default_price_max": 1899000,
+            "sale_price_min": 1890000,
+            "sale_price_max": 1890000,
+            "sale_percent": 1,
+            "sold": 25,
+            "order_count_text": "25",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "hp 8540p",
+            "product_type": 23,
+            "like_counter": 11,
+            "active_event_frame": "mega_voucher",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 2,
+                "star": 5
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "mega_voucher",
+                    "icon": "https://media3.scdn.vn/img4/2024/05_03/sXd7bQ68kqZWNs1PlGF7.png"
+                },
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 17870424,
+            "name": "Laptop Dell Latitude. E6220 12.5 inch - i5 2.6ghz 4cpu Pin mới 100% BH6Thang Gam",
+            "category_path": "laptop-dell-latitude-e6220-125-inch-i5-26ghz-4cpu-pin-moi-100-bh6thang-gam-17870424.html",
+            "image": "https://media3.scdn.vn/img3/2019/5_4/sQRmzT_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 3789000,
+            "default_price_max": 3789000,
+            "sale_price_min": 3789000,
+            "sale_price_max": 3789000,
+            "sold": 1,
+            "order_count_text": "1",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "Laptop Dell Latitude. E6220 i",
+            "product_type": 23,
+            "active_event_frame": "mega_voucher",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "mega_voucher",
+                    "icon": "https://media3.scdn.vn/img4/2024/05_03/sXd7bQ68kqZWNs1PlGF7.png"
+                },
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 17371117,
+            "name": "Laptop Dell latitude. i5 8G SSD 240G mới ssd bảo hành 3nam và pin mới bh pin 6 tháng",
+            "category_path": "laptop-dell-latitude-i5-8g-ssd-240g-moi-ssd-bao-hanh-3nam-va-pin-moi-bh-pin-6-thang-17371117.html",
+            "image": "https://media3.scdn.vn/img3/2019/4_11/POpmR1_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 2999000,
+            "default_price_max": 2999000,
+            "sale_price_min": 2998000,
+            "sale_price_max": 2998000,
+            "sale_percent": 1,
+            "sold": 1,
+            "order_count_text": "1",
+            "has_video": true,
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "laptop dell E4310 E6410 E6510 8g ssd",
+            "product_type": 23,
+            "active_event_frame": "mega_voucher",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "mega_voucher",
+                    "icon": "https://media3.scdn.vn/img4/2024/05_03/sXd7bQ68kqZWNs1PlGF7.png"
+                },
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 6879397,
+            "name": "[Freeship] Laptop chính hãng giá rẻ Dell Latitude i5 8G 512g 4cpu Pin mới 100% BH6Thang máy đẹp zin",
+            "category_path": "freeship-laptop-chinh-hang-gia-re-dell-latitude-i5-8g-512g-4cpu-pin-moi-100-bh6thang-may-dep-zin-6879397.html",
+            "image": "https://media3.scdn.vn/img2/2017/9_4/qCaBuP_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 5000000,
+            "default_price_max": 5000000,
+            "sale_price_min": 5000000,
+            "sale_price_max": 5000000,
+            "sold": 3,
+            "order_count_text": "3",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "laptop dell E6230 e6220 e6320",
+            "product_type": 23,
+            "active_event_frame": "mega_voucher",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 1,
+                "star": 4
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "mega_voucher",
+                    "icon": "https://media3.scdn.vn/img4/2024/05_03/sXd7bQ68kqZWNs1PlGF7.png"
+                },
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 5656507,
+            "name": "Hp Elitebook. SSD BH3nam pin mới BH6Thang 12.5in nhỏ gọn bỏ cốp xe MÁY TÍNH Laptop vỏ nhôm bền bỉ",
+            "category_path": "hp-elitebook-ssd-bh3nam-pin-moi-bh6thang-125in-nho-gon-bo-cop-xe-may-tinh-laptop-vo-nhom-ben-bi-5656507.html",
+            "image": "https://media3.scdn.vn/img2/2017/5_12/6uB6ZE_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 2999000,
+            "default_price_max": 2999000,
+            "sale_price_min": 2998000,
+            "sale_price_max": 2998000,
+            "sale_percent": 1,
+            "sold": 21,
+            "order_count_text": "21",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "[Freeship] Laptop Hp Elitebook. 2540p",
+            "product_type": 23,
+            "like_counter": 10,
+            "active_event_frame": "mega_voucher",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 2,
+                "star": 4
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "mega_voucher",
+                    "icon": "https://media3.scdn.vn/img4/2024/05_03/sXd7bQ68kqZWNs1PlGF7.png"
+                },
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 7072945,
+            "name": "[Freeship] Laptop chính hãng giá rẻ Laptop Dell 4G 320G 13in Core i5 2.6ghz Pin mới 100% BH6Thang",
+            "category_path": "freeship-laptop-chinh-hang-gia-re-laptop-dell-4g-320g-13in-core-i5-26ghz-pin-moi-100-bh6thang-7072945.html",
+            "image": "https://media3.scdn.vn/img2/2017/9_22/N7gPH6_simg_de2fe0_250x250_maxb.png",
+            "default_price_min": 2999000,
+            "default_price_max": 2999000,
+            "sale_price_min": 2999000,
+            "sale_price_max": 2999000,
+            "sold": 5,
+            "order_count_text": "5",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "DELL e6320 i3 3.5",
+            "product_type": 23,
+            "active_event_frame": "mega_voucher",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "mega_voucher",
+                    "icon": "https://media3.scdn.vn/img4/2024/05_03/sXd7bQ68kqZWNs1PlGF7.png"
+                },
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 19877259,
+            "name": "[QUÀ ĐỈNH 0Đ] Laptop cũ 13in Dell , Core i5 2.6ghz Pin mới 100% BH6Thang Ram 4g, HDD 320g",
+            "category_path": "qua-dinh-0d-laptop-cu-13in-dell-core-i5-26ghz-pin-moi-100-bh6thang-ram-4g-hdd-320g-19877259.html",
+            "image": "https://media3.scdn.vn/img3/2019/7_13/PjqZIi_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 2999000,
+            "default_price_max": 2999000,
+            "sale_price_min": 2998000,
+            "sale_price_max": 2998000,
+            "sale_percent": 1,
+            "sold": 2,
+            "order_count_text": "2",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "Laptop Dell-E6320",
+            "product_type": 23,
+            "active_event_frame": "mega_voucher",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "mega_voucher",
+                    "icon": "https://media3.scdn.vn/img4/2024/05_03/sXd7bQ68kqZWNs1PlGF7.png"
+                },
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 115691506,
+            "name": "Loa Máy Tính PC Laptop có Bluetooth BOSSTON T3500BT Gaming phiên bản v2.1 mới nhất có dây  hỗ trợ âm thanh 7.1  âm vòm",
+            "category_path": "loa-may-tinh-pc-laptop-co-bluetooth-bosston-t3500bt-gaming-phien-ban-v21-moi-nhat-co-day-ho-tro-am-thanh-71-am-vom-115691506.html",
+            "image": "https://media3.scdn.vn/img4/2023/09_12/Y32Igg6amrpEAoe5nMW9_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 466080,
+            "default_price_max": 466080,
+            "sale_price_min": 466080,
+            "sale_price_max": 466080,
+            "seller_admin_id": 788670,
+            "sku_user": "3232_114552799",
+            "product_type": 23,
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 788670,
+                "name": "Shop Thiên Địa",
+                "status": 2,
+                "type": 1,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {}
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 8306335,
+            "name": "[Freeship] Laptop Hp elitebook. 4G 14in pin mới võ nhôm",
+            "category_path": "freeship-laptop-hp-elitebook-4g-14in-pin-moi-vo-nhom-8306335.html",
+            "image": "https://media3.scdn.vn/img2/2017/12_27/p98ITa_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1999000,
+            "default_price_max": 1999000,
+            "sale_price_min": 1999000,
+            "sale_price_max": 1999000,
+            "sold": 41,
+            "order_count_text": "41",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "HP 6930P 4G 160",
+            "product_type": 23,
+            "like_counter": 30,
+            "active_event_frame": "mega_voucher",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {
+                "total": 4,
+                "star": 3.8
+            },
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "mega_voucher",
+                    "icon": "https://media3.scdn.vn/img4/2024/05_03/sXd7bQ68kqZWNs1PlGF7.png"
+                },
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 5694847,
+            "name": "[Freeship] MÁY TÍNH Laptop Dell latitude. i5 2.5Ghz 12.5in Nhỏ Xinh bỏ cóp xe 5 2.6ghz 4cpu Pin mới 100% BH6Thang",
+            "category_path": "freeship-may-tinh-laptop-dell-latitude-i5-25ghz-125in-nho-xinh-bo-cop-xe-5-26ghz-4cpu-pin-moi-100-bh6thang-5694847.html",
+            "image": "https://media3.scdn.vn/img2/2017/5_16/61q8oJ_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1899000,
+            "default_price_max": 1899000,
+            "sale_price_min": 1890000,
+            "sale_price_max": 1890000,
+            "sale_percent": 1,
+            "sold": 16,
+            "order_count_text": "16",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "Laptop Dell latitude. E6230",
+            "product_type": 23,
+            "active_event_frame": "mega_voucher",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "mega_voucher",
+                    "icon": "https://media3.scdn.vn/img4/2024/05_03/sXd7bQ68kqZWNs1PlGF7.png"
+                },
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 26055282,
+            "name": "Laptop HP màu bạc còn mới",
+            "category_path": "laptop-hp-mau-bac-con-moi-26055282.html",
+            "image": "https://media3.scdn.vn/img4/2020/02_18/TmfBeztzKiOcycHdsle1_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 1999000,
+            "default_price_max": 1999000,
+            "sale_price_min": 1999000,
+            "sale_price_max": 1999000,
+            "sold": 1,
+            "order_count_text": "1",
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "2530p",
+            "product_type": 23,
+            "active_event_frame": "mega_voucher",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "mega_voucher",
+                    "icon": "https://media3.scdn.vn/img4/2024/05_03/sXd7bQ68kqZWNs1PlGF7.png"
+                },
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        },
+        {
+            "id": 7073449,
+            "name": "[Freeship] Laptop Chính hãng giá rẻ  Laptop Dell i5 8G SSD128G 13in Game 3D FIFA Core i5 2.6ghz Pin mới 100% BH6Thang",
+            "category_path": "freeship-laptop-chinh-hang-gia-re-laptop-dell-i5-8g-ssd128g-13in-game-3d-fifa-core-i5-26ghz-pin-moi-100-bh6thang-7073449.html",
+            "image": "https://media3.scdn.vn/img2/2017/9_22/iji5ZJ_simg_de2fe0_250x250_maxb.jpg",
+            "default_price_min": 2999000,
+            "default_price_max": 2999000,
+            "sale_price_min": 2999000,
+            "sale_price_max": 2999000,
+            "discount_app": 1,
+            "seller_admin_id": 87531,
+            "sku_user": "DELL E6320 8G SSD G",
+            "product_type": 23,
+            "active_event_frame": "mega_voucher",
+            "status_new": 2,
+            "stock_status": 1,
+            "search_feed_type": "SKU",
+            "shop": {
+                "id": 87531,
+                "name": "CTy Hải Phát",
+                "status": 2,
+                "ware_house_region_name": "TP.HCM",
+                "badge_urls": {
+                    "shop_plus": "https://media3.scdn.vn/img4/2020/07_30/h6fJaiL5WkEbDU2eQRZb.png"
+                }
+            },
+            "rated": {},
+            "options": {},
+            "package_discount": [
+                {
+                    "position": "top",
+                    "type": "mega_voucher",
+                    "icon": "https://media3.scdn.vn/img4/2024/05_03/sXd7bQ68kqZWNs1PlGF7.png"
+                },
+                {
+                    "position": "top",
+                    "type": "shipping_discount",
+                    "text_color": "#14babd",
+                    "bg_color": "#e2f6f7",
+                    "icon": "https://media3.scdn.vn/img4/2022/11_09/0vChQUAK0qPDX3cOD6rV.png"
+                },
+                {
+                    "position": "bottom",
+                    "type": "pay_later",
+                    "text": "Mua trước trả sau",
+                    "text_color": "#d5600c",
+                    "bg_color": "#fdede2",
+                    "icon": "https://media3.scdn.vn/img4/2021/08_20/WxthNRjjOz4mP6X4uLj3.png"
+                }
+            ]
+        }
+    ],
+    "data_debug": null,
+    "meta_data": {
+        "source_info": {
+            "source_block_id": "feed",
+            "source_page_id": "search"
+        },
+        "experiment_id": 0,
+        "special_res": 0,
+        "total_count": 265478,
+        "count_from_es": 0,
+        "total_page": 4425,
+        "belong_tab": "rank",
+        "current_page": 1,
+        "request_id": "5ae14fa9-5926-4997-83df-e5a3b4a2be86",
+        "ranking_random_values": null,
+        "source_data": "ES",
+        "message": {
+            "not_found": "",
+            "found": ""
+        },
+        "corrected_query": "",
+        "origin_query": "",
+        "corrected_qic": "",
+        "origin_qic": "",
+        "last_offset": 60,
+        "sendo_click": null,
+        "search_algo": "cateLvl2",
+        "tool_applied_tracking": {
+            "cat_level_2": true,
+            "first_term": false,
+            "pin_product": false,
+            "redirect": false,
+            "auto_query_correct": false
+        },
+        "auto_correct_query": "laptop mới nhất",
+        "popup_info": {
+            "name": "",
+            "data": {
+                "image": "",
+                "description": "",
+                "expires": 0,
+                "type": 0,
+                "confirm": "",
+                "decline": ""
+            }
+        }
+    },
+    "async_data": {
+        "products": {}
+    }
+}
